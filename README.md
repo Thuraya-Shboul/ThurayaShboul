@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=fadihattab&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=thurayashboul&label=Profile+Views)
 # Hi, I'm Thuraya Shboul 👋
 
 ## AWS Solutions Architect | Full Stack Developer | IT Trainer
@@ -26,6 +26,37 @@
 ---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fadihattab&show_icons=true&theme=tokyonight) ![GitHub Streak](https://streak-stats.demolab.com?user=fadihattab&theme=tokyonight)
+
+---
+
+### Connect with me
+
+•⁠  ⁠LinkedIn: https://linkedin.com/in/yourprofile
+•⁠  ⁠Website: https://yourwebsite.com
+
+## Featured Projects
+
+### 📱 Flutter Weather App
+
+Real-time weather application built with Flutter and REST APIs.
+
+🔗 https://github.com/fadihattab/flutter-weather-app
+
+---
+
+### 🛒 MERN E-Commerce Store
+
+Full-stack e-commerce application using MongoDB, Express, React, and Node.js.
+
+🔗 https://github.com/fadihattab/mern-store
+
+---
+
+### 🎓 Moodle LMS Platform
+
+Customized Moodle learning management system with cloud deployment.
+
+🔗 https://github.com/fadihattab/moodle-project
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=fadihattab&layout=compact&theme=tokyonight)
 
