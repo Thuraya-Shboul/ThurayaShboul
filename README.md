@@ -12,3 +12,13 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50"/>
 </p>
+### Technologies
+
+•⁠  ⁠Flutter
+•⁠  ⁠React
+•⁠  ⁠Node.js
+•⁠  ⁠PHP
+•⁠  ⁠AWS
+•⁠  ⁠WordPress
+
+---
