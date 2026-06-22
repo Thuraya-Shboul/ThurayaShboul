@@ -13,7 +13,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50"/>
 </p>
 ### Technologies
-
+<br>
 •⁠  ⁠Flutter
 •⁠  ⁠React
 •⁠  ⁠Node.js
