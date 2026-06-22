@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=thurayashboul&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=Thuraya-Shboul&label=Profile+Views)
 # Hi, I'm Thuraya Shboul 👋
 
 ## AWS Solutions Architect | Full Stack Developer | IT Trainer
